@@ -1,6 +1,7 @@
 # 🌱 FarmBot — Autonomous Plant Watering Robot
 
-> ESP32-based roving robot with soil & air sensing, automated watering, and Firebase cloud sync
+<img width="820" height="683" alt="image" src="https://github.com/user-attachments/assets/ba785699-8f4f-40bf-9ea6-1e6f02b77a4d" />
+> ESP32-based roving robot with soil & air sensing, automated watering, and Firebase cloud sync (image is just illustration)
 
 ---
 
@@ -18,6 +19,7 @@ The system uses a **dual ESP32 architecture**:
 
 Manual plant watering is inconsistent — plants get over- or under-watered depending on human schedule. In multi-plant environments this is especially hard to maintain, leading to plant stress or crop loss.
 
+<img width="709" height="945" alt="image" src="https://github.com/user-attachments/assets/9801da6d-1db3-40f9-a591-223df6b78199" />
 > *Can a low-cost autonomous robot equipped with environmental sensors automatically determine which plants need water, dispatch water or mist accordingly, and report real-time conditions to a cloud dashboard — without human intervention?*
 
 ---
