@@ -1,6 +1,6 @@
 # 🌱 FarmBot — Autonomous Plant Watering Robot
 
-<img width="820" height="683" alt="image" src="https://github.com/user-attachments/assets/ba785699-8f4f-40bf-9ea6-1e6f02b77a4d" />
+<img width="1133" height="944" alt="Gemini_Generated_Image_rn99q7rn99q7rn99" src="https://github.com/user-attachments/assets/ac7d1f7c-7bd6-4cf6-8a57-29034bdd2aca" />
 > ESP32-based roving robot with soil & air sensing, automated watering, and Firebase cloud sync (image is just illustration)
 
 ---
