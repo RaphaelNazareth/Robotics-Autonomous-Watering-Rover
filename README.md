@@ -108,6 +108,8 @@ Readings are updated every **3 seconds**. Each cycle stores **5 indexed snapshot
 
 > ⚠️ Pins D34, D35 are input-only on ESP32 — do not use as output.
 
+![WhatsApp Image 2024-05-25 at 07 45 21_1c9241f5](https://github.com/user-attachments/assets/8f3e447b-e347-40b6-970e-1fcad2cb0b98)
+
 ---
 
 ## 📁 Project Structure
