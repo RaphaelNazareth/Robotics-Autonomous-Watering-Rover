@@ -178,17 +178,6 @@ Both boards will auto-connect to Wi-Fi and Firebase on power-up.
 - **Mist vs. pump** — mist sprayer provides fine-grained humidity control, critical for seedlings or enclosed grow-box environments
 - **NaN guarding** — failed reads default to `0` before Firebase write, preventing null/corrupt entries that would break receiver logic
 
----
-
-## 🔮 Future Work
-
-- [ ] Add motor driver + wheels firmware for true autonomous navigation between plant stations
-- [ ] Implement soil moisture threshold calibration (map raw ADC 0–4095 to % moisture per sensor)
-- [ ] Build Flutter / React Native mobile dashboard consuming Firebase RTDB in real-time
-- [ ] Integrate ESP32-CAM for visual plant health monitoring
-- [ ] Replace rule-based watering logic with a lightweight ML model trained on historical moisture + growth data
-- [ ] Add battery management and solar charging for outdoor deployment
-- [ ] Expand to 6 soil moisture sensors *(pins already stubbed in code — uncomment to enable)*
 
 ---
 
